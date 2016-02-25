@@ -1,5 +1,5 @@
 /*
- *      Copyright (c) 2015-2015 Stuart Boston
+ *      Copyright (c) 2015-2016 Stuart Boston
  *
  *      This file is part of the TV Maze API.
  *
